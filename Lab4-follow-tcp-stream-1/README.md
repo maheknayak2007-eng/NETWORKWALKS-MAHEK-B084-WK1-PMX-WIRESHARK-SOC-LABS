@@ -40,16 +40,16 @@ I lost 20 marks in this lab, on two questions:
 
 **Conversations window showing the one unusual port**
 
-![Conversations](lab4-task2-conversations.png)
+<img width="1920" height="1200" alt="lab4-task2-conversations" src="https://github.com/user-attachments/assets/60d3598c-1429-40fb-a837-24a510ed038a" />
 
 **Filtering on the chat port to see how the connection started**
 
-![Chat port filter](lab4-task3-port-filter.png)
+<img width="1920" height="1200" alt="lab4-task3-port-filter" src="https://github.com/user-attachments/assets/2b5b32a1-5522-4405-9ea9-b879932bf9d4" />
 
 **Follow TCP Stream window (sensitive text hidden)**
 
-![Follow TCP Stream](lab4-task4-follow-stream.png)
+<img width="1920" height="1200" alt="lab4-task4-follow-stream" src="https://github.com/user-attachments/assets/b961e2ae-ded8-4f76-b13b-23c7090e73cc" />
 
 **Final result**
 
-![Result](lab4-result.png)
+<img width="1920" height="1200" alt="lab4-result" src="https://github.com/user-attachments/assets/fa91f5d8-7906-4904-bf4e-3a49ece13267" />
