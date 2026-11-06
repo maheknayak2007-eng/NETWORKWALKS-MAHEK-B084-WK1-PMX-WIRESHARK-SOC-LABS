@@ -38,16 +38,16 @@ Passwords are hidden in these screenshots.
 
 **Protocol Hierarchy**
 
-![Protocol Hierarchy](lab7-task2-protocol-hierarchy.png)
+<img width="1920" height="1200" alt="lab7-task2-protocol-hierarchy" src="https://github.com/user-attachments/assets/2a77c58a-551c-4c3c-ac10-646a1ecc9d2b" />
 
 **Filtering failed logins (530)**
 
-![Failed logins](lab7-task7-failed-logins.png)
+<img width="1920" height="1200" alt="lab7-task7-failed-logins" src="https://github.com/user-attachments/assets/8c58b4a4-591e-45b9-8810-66b09cbd11b9" />
 
 **The successful login (230)**
 
-![Successful login](lab7-task8-success.png)
+<img width="1920" height="1200" alt="lab7-task8-success" src="https://github.com/user-attachments/assets/2977d62f-627a-44b9-bc77-c7a0a471c6bb" />
 
 **Final result**
 
-![Result](lab7-result.png)
+<img width="1920" height="1200" alt="lab7-result" src="https://github.com/user-attachments/assets/cdcf0b7e-75ba-45bb-b623-f862a8c304bd" />
