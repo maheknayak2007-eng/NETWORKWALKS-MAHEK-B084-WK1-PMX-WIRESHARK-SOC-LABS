@@ -40,20 +40,20 @@ I lost 10 marks on the "ports probed" question. Later tasks asked for the open p
 
 **Filtering to SYN packets only**
 
-![SYN filter](lab3-task2-syn-filter.png)
+<img width="1920" height="1200" alt="lab3-task2-syn-filter" src="https://github.com/user-attachments/assets/19427a94-f7d5-4726-af3f-2ce052a57ed2" />
 
 **Conversations window showing one source hitting many ports**
 
-![Conversations](lab3-task6-conversations.png)
+<img width="1920" height="1200" alt="lab3-task6-conversations" src="https://github.com/user-attachments/assets/079243c2-1911-4f37-92d4-e66554b90699" />
 
 **Server replies to closed ports (RST, ACK)**
 
-![RST ACK replies](lab3-task8-rst-ack.png)
+<img width="1920" height="1200" alt="lab3-task8-rst-ack" src="https://github.com/user-attachments/assets/d4ad1f6d-20ee-4afe-a10f-f907c519ae72" />
 
 **The ping before the scan**
 
-![Ping before scan](lab3-task9-ping.png)
+<img width="1920" height="1200" alt="lab3-task9-ping" src="https://github.com/user-attachments/assets/641941dd-5799-45e1-9c46-b38097d0197d" />
 
 **Final result**
 
-![Result](lab3-result.png)
+<img width="1920" height="1200" alt="lab3-result" src="https://github.com/user-attachments/assets/c2887881-cf10-4e29-a0e5-36b4f0539135" />
