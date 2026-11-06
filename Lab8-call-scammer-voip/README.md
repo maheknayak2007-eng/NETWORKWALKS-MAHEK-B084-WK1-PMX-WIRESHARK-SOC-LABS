@@ -38,20 +38,20 @@ I lost 10 marks on the caller's extension. I used the number from the first line
 
 **Filtering the call setup (SIP)**
 
-![SIP filter](lab8-task2-sip-filter.png)
+<img width="1920" height="1200" alt="lab8-task2-sip-filter" src="https://github.com/user-attachments/assets/236e472d-e31c-4782-b510-e8ee2699edce" />
 
 **Filtering the voice stream (RTP)**
 
-![RTP filter](lab8-task3-rtp-filter.png)
+<img width="1920" height="1200" alt="lab8-task3-rtp-filter" src="https://github.com/user-attachments/assets/23bc4be1-bc43-4c9a-96c6-aed1d3fb5142" />
 
 **Finding the codec in the RTP details**
 
-![Codec](lab8-task6-codec.png)
+<img width="1920" height="1200" alt="lab8-task6-codec" src="https://github.com/user-attachments/assets/d0b76ba5-2824-4ee6-892d-9fdecb0dea06" />
 
 **The fix: encrypt the call (SRTP)**
 
-![SRTP fix](lab8-task10-srtp-fix.png)
+<img width="1920" height="1200" alt="lab8-task10-srtp-fix" src="https://github.com/user-attachments/assets/33390a8c-46b0-40c2-b0f2-2775195b945c" />
 
 **Final result**
 
-![Result](lab8-result.png)
+<img width="1920" height="1200" alt="lab8-result" src="https://github.com/user-attachments/assets/3725c7f8-0c3e-4a15-9fa3-3b3dc33773e7" />
