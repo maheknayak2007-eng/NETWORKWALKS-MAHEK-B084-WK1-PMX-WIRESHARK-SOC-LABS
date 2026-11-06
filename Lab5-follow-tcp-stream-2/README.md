@@ -34,16 +34,16 @@ A staff member browsed the company intranet. An admin thinks someone left a secr
 
 **Filtering to the stream that carries the page**
 
-![Stream filter](lab5-task2-stream-filter.png)
+<img width="1920" height="1200" alt="lab5-task2-stream-filter" src="https://github.com/user-attachments/assets/e3b471d8-ee53-4425-a2c5-ccadbcf09b19" />
 
 **Follow TCP Stream window (sensitive text hidden)**
 
-![Follow TCP Stream](lab5-task4-follow-stream.png)
+<img width="1920" height="1200" alt="lab5-task4-follow-stream" src="https://github.com/user-attachments/assets/f6d97eaa-a78b-4c06-9bca-926ec84a6d9b" />
 
 **Finding the downloaded file with a display filter**
 
-![Download filter](lab5-task9-download-filter.png)
+<img width="1920" height="1200" alt="lab5-task9-download-filter" src="https://github.com/user-attachments/assets/d53f3575-cb41-402a-81dc-4426a53a114f" />
 
 **Final result**
 
-![Result](lab5-result.png)
+<img width="1920" height="1200" alt="lab5-result" src="https://github.com/user-attachments/assets/812390c1-49fa-42e8-bb36-d783ca8816cd" />
