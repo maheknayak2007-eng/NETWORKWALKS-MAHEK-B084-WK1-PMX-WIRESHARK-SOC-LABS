@@ -35,16 +35,16 @@ Passwords and usernames are hidden in these screenshots.
 
 **Filtering to POST requests**
 
-![POST filter](lab6-task3-post-filter.png)
+<img width="1920" height="1200" alt="lab6-task3-post-filter" src="https://github.com/user-attachments/assets/00ad2d93-dde0-436f-8113-e96cd87c6f28" />
 
 **The HTML Form URL Encoded section**
 
-![Form URL Encoded](lab6-task9-form-urlencoded.png)
+<img width="1920" height="1200" alt="lab6-task9-form-urlencoded" src="https://github.com/user-attachments/assets/e1f7bc82-a0ab-423c-8aec-d2a650e866ab" />
 
 **The fix: use HTTPS**
 
-![HTTPS fix](lab6-task10-https-fix.png)
+<img width="1920" height="1200" alt="lab6-task10-https-fix" src="https://github.com/user-attachments/assets/2b57b78b-7415-4fdc-b186-cba8a75963fd" />
 
 **Final result**
 
-![Result](lab6-result.png)
+<img width="1920" height="1200" alt="lab6-result" src="https://github.com/user-attachments/assets/1aad100d-9a59-4a99-9b28-adb8496d6cdf" />
