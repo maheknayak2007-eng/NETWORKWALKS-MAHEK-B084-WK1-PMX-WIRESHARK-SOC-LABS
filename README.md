@@ -10,9 +10,9 @@ The project has six live SOC labs that run in the browser. Each lab gives a netw
 
 ## Labs
 
-- [Lab 3: Identify the Attacker's IP](lab3-attacker-ip/README.md) (result: 90/100)
-- [Lab 4: Follow TCP Stream 1](lab4-follow-tcp-stream-1/README.md) (result: 80/100)
-- [Lab 5: Follow TCP Stream, Part 2](lab5-follow-tcp-stream-2/README.md) (result: 100/100)
+- [Lab 3: Identify the Attacker's IP](Lab3-attacker-ip/README.md) (result: 90/100)
+- [Lab 4: Follow TCP Stream 1](Lab4-follow-tcp-stream-1/README.md) (result: 80/100)
+- [Lab 5: Follow TCP Stream, Part 2](Lab5-follow-tcp-stream-2/README.md) (result: 100/100)
 - Lab 6: HTTP Plain Text Credentials (in progress)
 - Lab 7: Catch the Brute Force Attacker (in progress)
 - Lab 8: Catch the Call Scammer (in progress)
